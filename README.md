@@ -1,7 +1,7 @@
 # Bubble Monkey Platform Game
 
 - The main folder is the document root
-- play at
+- play at http://bubblemonkey.herokuapp.com/
 
 ### Sprites
 
